@@ -9,3 +9,4 @@ Whether you're a student, writer, or just someone who loves words, this site aim
  - API: A Dictionary API (available on Internet for free)
 
 # Live Demo
+Live Demo at [Syber Verse v2](https://sakshamdev2005.github.io/Dictionary-JS/)
