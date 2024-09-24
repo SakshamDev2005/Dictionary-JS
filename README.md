@@ -7,3 +7,5 @@ Whether you're a student, writer, or just someone who loves words, this site aim
 
  - Frontend: HTML, CSS, JavaScript
  - API: A Dictionary API (available on Internet for free)
+
+# Live Demo
